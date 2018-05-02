@@ -3,4 +3,10 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorRed">#de6868</color>
+    <color name="colorGreen">#35ce8d</color>
+    <color name="colorGreenDark">#2aa571</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="timer_circle">#2eb57c</color>
+    <string name="color_trivia_txquestions">#3a3a3a</string>
 </resources>

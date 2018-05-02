@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "794160535948",
+    "firebase_url": "https://trivia-tenis.firebaseio.com",
+    "project_id": "trivia-tenis",
+    "storage_bucket": "trivia-tenis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794160535948:android:add715d81a879c75",
+        "android_client_info": {
+          "package_name": "com.playtown.triviaplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794160535948-uvqvms724lr2hr95se0ohl63ul9lsae7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.playtown.triviaplay",
+            "certificate_hash": "b0e0125358b72d6575fa0ab6b1cd8477c8359f9d"
+          }
+        },
+        {
+          "client_id": "794160535948-t0h1lgs9s0l37eahrql19sa8mhdsen1e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGWBp0LUYFEGQtYMX6z09MdZoduKC7JUE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794160535948-t0h1lgs9s0l37eahrql19sa8mhdsen1e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

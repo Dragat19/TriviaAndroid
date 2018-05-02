@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">TriviaPlay</string>
     <string name="app_link">http://www.playtown.com.ar/</string>
+    <string name="trivia_answer_incorrect">¡Su respuesta es incorrecta!</string>
+    <string name="score_correct">correcta %d/10</string>
+    <string name="score_incorrect">Incorrectas %d/10</string>
+    <string name="score_total">¡Usted consiguió %d pts!!</string>
+
+    <!--Trivia finish-->
+    <string name="trivia_finish_description">Consigue la mayor cantidad de puntos para conseguir los primeros puestos de nuestro RANKING SET</string>
+    <string name="trivia_finish_title">resposta correta</string>
+    <string name="trivia_init_description">Quiz SET! Acumule pontos e ganhe uma viagem a um GRAND SLAM!</string>
+    <string name="trivia_init_title">TRIVIA SOMOS EL TENNIS</string>
 </resources>
